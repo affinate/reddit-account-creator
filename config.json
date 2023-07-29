@@ -1,0 +1,7 @@
+{
+    "webdriver": "firefox",
+    "verify_email_address": true,
+    "authentic_input": true,
+    "create_authentic_account": true,
+    "audio_language": "en"
+}
