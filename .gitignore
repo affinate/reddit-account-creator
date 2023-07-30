@@ -147,5 +147,5 @@ cython_debug/
 # PyCharm
 .idea/
 
-# RedditAccountCreator
+# reddit-account-creator
 accounts/

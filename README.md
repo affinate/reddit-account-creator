@@ -1,4 +1,4 @@
-# RedditAccountCreator
+# Reddit Account Creator
 Python program that creates reddit accounts with verified emails (optional) using [selenium 4.8.3](https://pypi.org/project/selenium/4.8.3) and [openai-whisper 20230314](https://pypi.org/project/openai-whisper/20230314/). The emails used by this program are taken from https://internxt.com/temporary-email.
 **This is for educational purposes only and should not be used to mass create bot accounts or such.**
 
